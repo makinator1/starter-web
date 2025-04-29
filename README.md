@@ -13,3 +13,5 @@ Text to contribute
 ## Another item
 
 copyright
+
+## another way of doing things
