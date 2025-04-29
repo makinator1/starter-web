@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Diego Fernandez
 
 # TECHNOLOGY COLOPHON
 
