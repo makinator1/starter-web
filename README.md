@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 Text to contribute
 
 ## Another item
+
+copyright
