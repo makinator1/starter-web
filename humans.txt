@@ -7,11 +7,7 @@
 
 # THANKS
 
-    Diego Fernandez & other information
-<<<<<<< HEAD
-	quick add 
-=======
->>>>>>> 844f346ff3eea3bf25355e21fc32d60fb29d2410
+    Diego Fernandez & other information and other changes
 
 # TECHNOLOGY COLOPHON
 
